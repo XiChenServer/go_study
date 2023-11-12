@@ -1,8 +1,8 @@
 package geecache
 
 import (
-	"Distributed/geecache/geecachepb"
-	"Distributed/geecache/singleflight"
+	"Distributed/geecachepb"
+	"Distributed/singleflight"
 	"fmt"
 	"log"
 	"sync"

@@ -1,7 +1,7 @@
 package geecache
 
 import (
-	"Distributed/geecache/geecachepb"
+	"Distributed/geecachepb"
 )
 
 type PeerPicker interface {
