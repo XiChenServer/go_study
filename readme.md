@@ -1,1 +1,1 @@
-[Uploading 机器学习与网络分析课程实践模板-SVM模型-张万明-网络2202-04222060.doc…]()
+<img width="281" height="76" alt="1755358933589" src="https://github.com/user-attachments/assets/52235a3c-f233-414b-9ebe-96564f6f9f1e" />
